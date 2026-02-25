@@ -122,15 +122,15 @@ main {
         line-height: 25px;
         margin: 21px 0 48px 0;
       }
-      button.view {
-        width: 205px;
-        height: 16px;
-        display: flex;
-        align-items: center;
-        gap: 26px;
-        background-color: transparent;
-        border: none;
-      }
     }
+  }
+  button.view {
+    width: 205px;
+    height: 16px;
+    display: flex;
+    align-items: center;
+    gap: 26px;
+    background-color: transparent;
+    border: none;
   }
 }
