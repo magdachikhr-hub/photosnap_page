@@ -117,4 +117,21 @@ main button.view {
   gap: 26px;
   background-color: transparent;
   border: none;
+}
+main section.third {
+  height: 610px;
+  display: flex;
+}
+main section.third div.text {
+  width: 610px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+main section.third h2 {
+  font-size: 40px;
+  line-height: 48px;
+  color: #000000;
+  text-transform: uppercase;
 }/*# sourceMappingURL=style.css.map */
